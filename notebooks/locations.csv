@@ -1,0 +1,32 @@
+index,id,description,country.id,country.name,country.abbrev,city.id,city.name,city.keyword,state.id,state.name,state.abbrev,state.keyword,school,school_id
+0,15901,"Berlin, Germany",57,Germany,DE,31156,Berlin,berlin,NULL,NULL,NULL,NULL,ironhack,10828
+1,16022,"Mexico City, Mexico",29,Mexico,MX,31175,"Mexico City",mexico-city,NULL,NULL,NULL,NULL,ironhack,10828
+2,16086,"Amsterdam, Netherlands",59,Netherlands,NL,31168,Amsterdam,amsterdam,NULL,NULL,NULL,NULL,ironhack,10828
+3,16088,"Sao Paulo, Brazil",42,Brazil,BR,31121,"Sao Paulo",sao-paulo,NULL,NULL,NULL,NULL,ironhack,10828
+4,16109,"Paris, France",38,France,FR,31136,Paris,paris,NULL,NULL,NULL,NULL,ironhack,10828
+5,16375,"Miami, FL, United States",1,"United States",US,31,Miami,miami,11,Florida,FL,florida,ironhack,10828
+6,16376,"Madrid, Spain",12,Spain,ES,31052,Madrid,madrid,NULL,NULL,NULL,NULL,ironhack,10828
+7,16377,"Barcelona, Spain",12,Spain,ES,31170,Barcelona,barcelona,NULL,NULL,NULL,NULL,ironhack,10828
+8,16709,"Lisbon, Portugal",28,Portugal,PT,31075,Lisbon,lisbon,NULL,NULL,NULL,NULL,ironhack,10828
+9,17233,Online,NULL,NULL,NULL,NULL,NULL,NULL,1,Online,Online,online,ironhack,10828
+0,15704,"San Francisco, CA, United States",1,"United States",US,13,"San Francisco",san-francisco,6,California,CA,california,app-academy,10525
+1,15705,"New York City, NY, United States",1,"United States",US,1507,NYC,new-york-city,34,"New York",NY,new-york,app-academy,10525
+2,15862,Online,NULL,NULL,NULL,NULL,NULL,NULL,1,Online,Online,online,app-academy,10525
+0,16013,Online,NULL,NULL,NULL,NULL,NULL,NULL,1,Online,Online,online,springboard,11035
+0,18261,Online,NULL,NULL,NULL,NULL,NULL,NULL,1,Online,Online,online,syntax-technologies,11797
+0,17154,Online,NULL,NULL,NULL,NULL,NULL,NULL,1,Online,Online,online,practicum-coding-bootcamps,11225
+0,18073,Online,NULL,NULL,NULL,NULL,NULL,NULL,1,Online,Online,online,colaberry,11718
+0,18116,Online,NULL,NULL,NULL,NULL,NULL,NULL,1,Online,Online,online,maven-analytics,11740
+0,15807,Online,NULL,NULL,NULL,NULL,NULL,NULL,1,Online,Online,online,udacity,11118
+0,15935,"New York City, NY",1,"United States",US,1507,NYC,new-york-city,34,"New York",NY,new-york,brainstation,10571
+1,15985,"Toronto, Canada",2,Canada,CA,31152,Toronto,toronto,66,Ontario,ON,,brainstation,10571
+2,16010,"Vancouver, Canada",2,Canada,CA,31138,Vancouver,vancouver,71,"British Columbia",BC,,brainstation,10571
+3,16909,"Boston, MA",1,"United States",US,47,Boston,boston,23,Massachusetts,MA,massachusetts,brainstation,10571
+4,16910,"Chicago, IL",1,"United States",US,39,Chicago,chicago,15,Illinois,IL,illinois,brainstation,10571
+5,16940,Online,NULL,NULL,NULL,NULL,NULL,NULL,1,Online,Online,online,brainstation,10571
+6,17706,"Miami, FL",1,"United States",US,31,Miami,miami,11,Florida,FL,florida,brainstation,10571
+7,17731,"London, UK",11,"United Kingdom",GB,31176,London,london,NULL,NULL,NULL,NULL,brainstation,10571
+0,18109,Online,NULL,NULL,NULL,NULL,NULL,NULL,1,Online,Online,online,ccs-learning-academy,11736
+0,16383,Online,NULL,NULL,NULL,NULL,NULL,NULL,1,Online,Online,online,thinkful,11098
+0,16360,"New York City, NY",1,"United States",US,1507,NYC,new-york-city,34,"New York",NY,new-york,general-assembly,10761
+1,16372,Online,NULL,NULL,NULL,NULL,NULL,NULL,1,Online,Online,online,general-assembly,10761
